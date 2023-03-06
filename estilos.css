@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://c8.alamy.com/compes/2b5g137/fila-sin-costuras-de-tulipanes-de-colores-vectoriales-con-hojas-conjunto-de-flores-de-primavera-aisladas-coleccion-de-hermosas-yemas-de-tulipanes-multicolor-y-flores-en-flor-2b5g137.jpg);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
